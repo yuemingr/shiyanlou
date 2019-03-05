@@ -7,3 +7,4 @@ Creating a new branch is quick AND simple.
 aaaa
 ddmmee
 0000
+issue-101
